@@ -1,0 +1,4 @@
+Experiência de aprendizado do Git/Github
+
+Os comandos aprendidos foram os básicos para criação, alteração, inclusão e envio dos arquivos e todos eles estão na lista de comandos desse repositório.
+Uso o macOs e me deparei com muitas dificuldades de configuração e execução dos comandos, por terem particularidades para este sistema e por este motivo demorei bem mais que o esperado no meu planejamento de estudo.
